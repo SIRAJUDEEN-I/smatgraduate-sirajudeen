@@ -1,0 +1,17 @@
+public class FiveIntegerSum { 
+ public static void main(String[] args) {
+ int number1 = 11; 
+ int number2 = 22;
+ int number3 = 33;
+ int number4 = 44;
+ int number5 = 55;
+ int sum;
+September 21, 2022 [HAARISINFOTECH - ASSIGNMENT]
+ sum = number1 + number2 + number3 + number4 + number5; 
+sum
+ System.out.print("The sum is "); 
+string
+ System.out.println(sum);
+next line
+ }
+}
